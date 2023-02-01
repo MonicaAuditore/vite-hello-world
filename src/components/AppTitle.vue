@@ -10,11 +10,15 @@ export default {
 </script>
 
 <template>
-  <h1>{{ message }}</h1>
+  <h1 style="color: purple">{{ message }}</h1>
 </template>
 
 <style scoped>
 button {
   font-weight: bold;
+}
+
+.purple {
+  color: rgb(83, 2, 189);
 }
 </style>
