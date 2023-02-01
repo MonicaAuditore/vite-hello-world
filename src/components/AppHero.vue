@@ -42,10 +42,11 @@ button {
 }
 .btn {
   background-color: #060a2d;
-  border: 1px solid #c50b76;
+  border: 1px solid #c50b7673;
   padding: 16px;
   border-radius: 10px;
   margin-top: 30px;
+  box-shadow: 1px 1px 15px -1px #601c7c;
 }
 
 .titolo {
@@ -60,5 +61,7 @@ h1 {
 h2 {
   margin-bottom: 50px;
   font-size: 50px;
+  color: #f91498;
+  text-shadow: 0px 2px 13px #9c27b0;
 }
 </style>
