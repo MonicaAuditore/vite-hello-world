@@ -3,7 +3,7 @@ export default {
   data() {
     return {
       titolo: "MODERN ART",
-      sottotitolo: "EXIBITION",
+      sottotitolo: "EXHIBITION",
       testo:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac odio sapien. Nunc libero nulla, dapibus eu ex at, porta pellentesque ligula. ",
       immagine:
