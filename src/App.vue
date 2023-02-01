@@ -1,8 +1,11 @@
 <script>
 import AppTitle from "./components/AppTitle.vue";
+import AppHero from "./components/AppHero.vue";
+
 export default {
   components: {
     AppTitle,
+    AppHero,
   },
   data() {
     return {
@@ -13,7 +16,8 @@ export default {
 </script>
 
 <template>
-  <AppTitle />
+  <!-- <AppTitle /> -->
+  <AppHero />
   <!-- <button @click="count++">Count is: {{ count }}</button> -->
 </template>
 
