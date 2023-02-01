@@ -43,7 +43,7 @@ button {
 .btn {
   background-color: #060a2d;
   border: 1px solid #c50b76;
-  padding: 10px;
+  padding: 16px;
   border-radius: 10px;
   margin-top: 30px;
 }

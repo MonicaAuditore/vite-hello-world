@@ -18,7 +18,6 @@ export default {
 <template>
   <!-- <AppTitle /> -->
   <AppHero />
-  <!-- <button @click="count++">Count is: {{ count }}</button> -->
 </template>
 
 <style scoped>
